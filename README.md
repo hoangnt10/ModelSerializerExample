@@ -7,6 +7,10 @@ Things you may want to cover:
 
 * Ruby version
 
+* Ref
+- https://www.bacancytechnology.com/blog/active-model-serializers-with-rails-api
+
+
 * System dependencies
 
 * Configuration
